@@ -1,0 +1,2 @@
+1. Start mongodb: mongod --dbpath Path
+2. npm start (backend)
